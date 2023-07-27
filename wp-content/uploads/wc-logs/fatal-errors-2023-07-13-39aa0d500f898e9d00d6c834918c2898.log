@@ -1,0 +1,10 @@
+2023-07-13T07:31:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/wei-dev/Desktop/htdocs/dp-Ecommerce/wp-content/plugins/woocommerce/src/Internal/Traits/AccessiblePrivateMethods.php on line 158
+
+2023-07-13T07:31:34+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/wei-dev/Desktop/htdocs/dp-Ecommerce/wp-includes/rest-api/class-wp-rest-server.php on line 907
+
+2023-07-13T07:31:36+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/wei-dev/Desktop/htdocs/dp-Ecommerce/wp-includes/rest-api/class-wp-rest-server.php on line 907
+
+2023-07-13T07:31:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/wei-dev/Desktop/htdocs/dp-Ecommerce/wp-includes/functions.php on line 4811
+
+2023-07-13T09:50:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/wei-dev/Desktop/htdocs/dp-Ecommerce/wp-includes/rest-api/class-wp-rest-server.php on line 907
+
